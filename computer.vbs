@@ -1,3 +1,5 @@
+//this is on the windows OS, This is basically me making a fake virus and this is my code XD
+
 X=MsgBox("Error while opening computer do you want to fix it?  ",4+64,"Winload.exe")
 X=MsgBox("something went wrong do you want to scan your computer?",3+48,"unknown_") 
 X=MsgBox("Alert! Virus has been found!do you want to open Winload.exe?",3+16,"alert") 
